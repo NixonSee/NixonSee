@@ -1,9 +1,10 @@
-<!-- HEADER -->
+<!-- Typing animation (WORKING) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&pause=1200&color=38B2AC&center=true&vCenter=true&width=500&lines=Hey+I'm+Nixon+See!;Welcome+to+my+GitHub+✨;I+love+building+clean+UI+%26+fun+projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1200&color=38B2AC&center=true&vCenter=true&width=500&lines=Hey+I'm+Nixon+See!;Welcome+to+my+GitHub+✨;I+love+building+clean+UI+%26+fun+projects" />
 </p>
 
-<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/wave.svg" />
+<!-- Wave Divider (WORKING) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=120&section=header" />
 
 ---
 
@@ -42,4 +43,5 @@ I love creating clean, simple interfaces and experimenting with modern tools & t
 - Modern React patterns  
 - Clean UI/UX design  
 - SQL fundamentals  
+
 
