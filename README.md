@@ -1,38 +1,45 @@
-# 👋 Hey, I'm Nixon See
+<!-- HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&pause=1200&color=38B2AC&center=true&vCenter=true&width=500&lines=Hey+I'm+Nixon+See!;Welcome+to+my+GitHub+✨;I+love+building+clean+UI+%26+fun+projects" />
+</p>
 
-I'm a software engineering student who loves building cool things, solving real problems, and exploring different areas of tech. I enjoy working with UI/UX, modern web development, and anything that challenges my creativity.
-
----
-
-## 🚀 Tech Stack I Use
-<div>
-  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-315389?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-</div>
+<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/wave.svg" />
 
 ---
 
-## ✨ About Me
-- I love designing clean, simple interfaces  
-- I enjoy learning new tools and improving my coding habits  
-- I spend a lot of time building side projects and experimenting  
-- I like understanding how things work — then breaking and fixing them 😄  
+# 🌟 About Me
 
-My dream? Build something that shocks the world one day 🚀
+Hey! I'm **Nixon**, a software engineering student who enjoys building cool, meaningful things on the web.  
+I love creating clean, simple interfaces and experimenting with modern tools & technologies.
 
----
-
-## 📊 GitHub Stats
-![Nixon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NixonSee&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NixonSee&layout=compact&theme=tokyonight)
+> “Code is my canvas — and I’m always learning new ways to paint.”
 
 ---
 
-## 📫 Connect With Me
-Feel free to reach out if you want to chat, collaborate, or build something cool together!
+# 🔧 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,java,mysql,git" height="90"/>
+</p>
+
+---
+
+# 📈 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NixonSee&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NixonSee&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NixonSee&theme=tokyonight&border_radius=8" height="200"/>
+</p>
+
+---
+
+# 🌱 Currently Learning
+- TypeScript best practices  
+- Modern React patterns  
+- Clean UI/UX design  
+- SQL fundamentals  
+
