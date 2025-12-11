@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1200&color=38B2AC&center=true&vCenter=true&width=500&lines=Hey+I'm+Nixon+See!;Welcome+to+my+GitHub+✨" />
 </p>
 
-<!-- Wave Divider (WORKING) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=120&section=header" />
-
 ---
 
 # 🌟 About Me
@@ -38,11 +35,9 @@ Love creating clean, simple interfaces and experimenting with modern tools & tec
 
 ---
 
-# 🌱 Currently Learning
-- TypeScript best practices  
+# 🌱 Currently Learning  
 - Modern React patterns  
 - Clean UI/UX design  
-- SQL fundamentals  
 
 ---
 
@@ -51,11 +46,3 @@ Love creating clean, simple interfaces and experimenting with modern tools & tec
 <p align="left">
   <a href="mailto:nixonsee2006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=100&section=footer" />
-</p>
-
-<p align="center">✨ Thanks for stopping by! ✨</p>
