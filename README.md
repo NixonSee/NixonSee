@@ -25,19 +25,14 @@ Love creating clean, simple interfaces and experimenting with modern tools & tec
 # 📈 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NixonSee&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NixonSee&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-git-master-akshat46s-projects.vercel.app/api?username=NixonSee&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-git-master-akshat46s-projects.vercel.app/api/top-langs/?username=NixonSee&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NixonSee&theme=tokyonight&border_radius=8" height="200"/>
 </p>
 
----
-
-# 🌱 Currently Learning  
-- Modern React patterns  
-- Clean UI/UX design  
 
 ---
 
