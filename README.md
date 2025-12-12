@@ -6,7 +6,7 @@ I'm a software engineering student who loves building clean, functional, and mea
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nixonsee/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nixon-see-a8b4a1277/)
-[![Portfolio](https://skillicons.dev/icons?i=github)](https://vercel.com/nixon-sees-projects/myportfolio)
+[![Portfolio](https://skillicons.dev/icons?i=github)](https://myportfolio-virid-theta-39.vercel.app/)
 
 ---
 
