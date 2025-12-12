@@ -1,21 +1,20 @@
-<!-- Typing animation (WORKING) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1200&color=F9F871&center=true&vCenter=true&width=500&lines=Hey+I'm+Nixon+See!;Welcome+to+my+GitHub+✨" />
-</p>
+# Nixon See
+
+**`Digital Craftsman (Developer/Designer/Builder)`**
+
+I'm a software engineering student who loves building clean, functional, and meaningful digital experiences. I enjoy exploring both design and development, from crafting simple interfaces to turning ideas into working projects that solve real problems. I'm always experimenting, learning, and improving — with the long-term goal of creating something impactful enough to leave a mark.
+
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nixonsee/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nixon-see-a8b4a1277/)
+[![Portfolio](https://skillicons.dev/icons?i=github)](https://vercel.com/nixon-sees-projects/myportfolio)
 
 ---
 
-# 🌟 About Me
-
-Hey! I'm **Nixon**, a software engineering student who enjoys building cool, meaningful things on the web.  
-Love creating clean, simple interfaces and experimenting with modern tools & technologies.
-
-> “Code is my canvas — and I’m always learning new ways to paint.”
+# 🔧 Skill Stack
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,html,nodejs,java,figma&theme=light)](https://skillicons.dev)
 
 ---
 
-# 🔧 Tech Stack
+# Stats and dev activity
+![Nixon's GitHub stats](https://github-readme-stats-phi-five.vercel.app/api?username=NixonSee&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,java,mysql,git" height="90"/>
-</p>
