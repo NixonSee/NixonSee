@@ -11,7 +11,7 @@ I'm a software engineering student who loves building clean, functional, and mea
 ---
 
 # 🔧 Skill Stack
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,html,nodejs,java,figma&theme=light,Git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,html,nodejs,java,c,cpp,git,solidity,vercel,figma&theme=light)](https://skillicons.dev)
 
 ---
 
